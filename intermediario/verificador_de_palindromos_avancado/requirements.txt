@@ -1,0 +1,2 @@
+removeaccents==0.1
+Unidecode==1.4.0
