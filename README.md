@@ -44,7 +44,7 @@ Projetos que exigem lógica mais robusta, **funções mais complexas, manipulaç
 
 <br>
 
-### 🔴 Nível Avançado
+### 🔴 Nível Avançado (Em Andamento)
 Projetos que abordam temas específicos e complexos como **redes, APIs, concorrência ou algoritmos de alta performance**.
 
 | Projeto | Descrição |
